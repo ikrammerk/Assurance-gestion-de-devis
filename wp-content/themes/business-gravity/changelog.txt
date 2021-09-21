@@ -1,0 +1,91 @@
+== Changelog ==
+
+= 1.2.5 =
+* Made WP 5.6 compatible.
+
+= 1.2.4 =
+* Style issue fixed.
+
+= 1.2.3 =
+* Multilingual support added.
+
+= 1.2.2 =
+* Editor style updated.
+
+= 1.2.1 =
+* Theme info updated.
+
+= 1.2.0 =
+* Style issue fixed.
+
+= 1.1.9 =
+* Style issue fixed.
+* Set fallback for previous version of WordPress.
+
+= 1.1.8 =
+* Set fallback for previous version of WordPress.
+
+= 1.1.7 =
+* Made WordPress 5.5 compatible.
+
+= 1.1.6 =
+* Header style fixed.
+
+= 1.1.5 =
+* Style issue fixed.
+
+= 1.1.4 =
+* Style issue fixed.
+
+= 1.1.3 =
+* Breadcrumb file updated to fix Google search console warnings.
+* One click demo import plugin recommended.
+
+= 1.1.2 = 
+* Submenu arrow color issue fixed.
+
+= 1.1.1 = 
+* Submenu arrow issue fixed.
+
+= 1.1.0 = 
+* Added license and copyright information in readme and style files.
+
+= 1.0.9 =
+* Added support for wp_body_open action.
+* Added theme info files.
+
+= 1.0.8 =
+* Style issue fixed.
+
+= 1.0.7 =
+* RSS feed social icon supported.
+
+= 1.0.6 =
+* Remove service icon name from breadcrumb
+* Style issues fixed.
+
+= 1.0.5 =
+* Header and Slider image sizes updated. Now, the recommeded image size for header is 1920px X 380px and for slider 1920px X 750px.
+* RTL issue fixed.
+* Minor style issues fixed.
+
+= 1.0.4 =
+* Header 2 mobile icon hide issue fixed.
+* Added Gutenberg compatibility.
+* Screenshot image URL changed.
+
+= 1.0.3 =
+* Added Copyright text edit option.
+* Mobile menu hidden issue fixed.
+* Minor Style fixed.
+
+= 1.0.2 =
+* Fixed Skype invalid URL issue for social menu.
+* Minor Style fixed.
+
+= 1.0.1 =
+* Reordered bootstrap rtl style file.
+* RTL style fixed.
+
+= 1.0.0 =
+* Initial release.

@@ -1,0 +1,12 @@
+includes:
+    - phpstan-baseline.neon
+
+parameters:
+    tipsOfTheDay: false
+    treatPhpDocTypesAsCertain: false
+    level: 8
+    paths:
+        - src
+    excludes_analyse:
+        - tests/resources
+        - tests/Fixtures

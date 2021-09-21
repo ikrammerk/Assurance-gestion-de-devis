@@ -1,0 +1,20 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_business-gravity">
+            <key name="slider_button_text" />
+            <key name="portfolio_title" />
+            <key name="testimonial_title" />
+            <key name="callback_title" />
+            <key name="callback_button_text" />
+            <key name="highlight_section_title" />
+            <key name="contact_title" />
+            <key name="footer_callback_title" />
+            <key name="top_header_phone" />
+            <key name="top_header_email" />
+            <key name="top_header_address" />
+            <key name="header_button_text" />
+            <key name="archive_page_title" />
+            <key name="footer_text" />
+        </key>
+    </admin-texts>
+</wpml-config>
